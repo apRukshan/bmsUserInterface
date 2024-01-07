@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704648203 source:c:\users\asus vivobook\documents\my c projects\bmsuserinterface\main.c
+	<stdio.h>
+	<stdlib.h>
+
